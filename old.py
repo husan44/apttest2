@@ -3,7 +3,7 @@ print("This")
 #wow this is a really good comment
 import sys
 
-out_of = int(sys.argv[1])
+out_of = float(sys.argv[1])
 while 1:
     line = input()
     total = 0
