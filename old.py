@@ -1,4 +1,5 @@
 #! /usr/bin/env python3
+print("This is a different print")
 
 import sys
 
